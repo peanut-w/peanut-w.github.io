@@ -1,7 +1,7 @@
 # Basic
 title: Peanut
 subtitle: A blog for peanut
-welcome_message: <a href="https://www.jianshu.com/u/3b5aecf0a808" target="_blank"> Peanut no peanut </a>
+welcome_message:  Peanut no peanut ！
 description: Every man is his own worst enemy.
 creator: <a href="https://github.com/peanut-w">@peanut</a>
 
@@ -18,12 +18,12 @@ cover_color:
 # The blog button should not be removed.
 blog_button:
     title: Blog
-    description: Visit blog
+    description: 博客
 
 # Navigation buttons in the front page.
 # 我的项目指向我的git
 nav:
-    - {title: Book, description: My Projects, url: 'https://www.jianshu.com/u/3b5aecf0a808'}
+    - {title: Book, description: 简书, url: 'https://www.jianshu.com/u/3b5aecf0a808'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -38,7 +38,7 @@ comment:
 
 # Social
 social:
-    weibo: https://weibo.com/u/5343555441?refer_flag=1005055010_&is_all=1
+    weibo: http://weibo.com/pppeanut
     github: onevcat
     twitter: onevcat
     gplus: 107108267983477358170
