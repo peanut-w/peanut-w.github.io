@@ -1,9 +1,9 @@
 # Basic
-title: Peanut
-subtitle: A blog for Peanut
+title: peanut
+subtitle: A blog for peanut
 welcome_message: <a href="https://github.com/peanut-w" target="_blank"> Peanut no peanut </a>
 description: Every man is his own worst enemy.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="https://github.com/peanut-w">@peanut</a>
 
 url: "https://github.com/peanut-w"
 
@@ -38,7 +38,7 @@ comment:
 
 # Social
 social:
-    weibo: https://weibo.com/5343555441/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1
+    weibo: https://weibo.com/u/5343555441?refer_flag=1005055010_&is_all=1
     github: onevcat
     twitter: onevcat
     gplus: 107108267983477358170
