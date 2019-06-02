@@ -1,5 +1,5 @@
 # Basic
-title: Vno Jekyll
+title: Peanut
 subtitle: A blog-orientation theme for Jekyll
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
@@ -21,8 +21,9 @@ blog_button:
     description: Visit blog
 
 # Navigation buttons in the front page.
+# 我的项目指向我的git
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/peanut-w'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -33,15 +34,15 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     disqus: vno-jekyll
-    # duoshuo: 
-    
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
+    weibo: https://weibo.com/5343555441/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1
     github: onevcat
     twitter: onevcat
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 18832016332@163.com
 
 # Google Analytics
 ga:
