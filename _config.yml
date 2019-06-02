@@ -23,7 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 # 我的项目指向我的git
 nav:
-    - {title: Projects, description: My Projects, url: 'https://github.com/peanut-w'}
+    - {title: Book, description: My Projects, url: 'https://www.jianshu.com/u/3b5aecf0a808'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
