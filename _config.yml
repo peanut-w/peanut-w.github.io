@@ -1,8 +1,8 @@
 # Basic
 title: Peanut
-subtitle: A blog-orientation theme for Jekyll
+subtitle: A blog for Peanut
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: Every man is his own worst enemy.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color:
 
 # The blog button should not be removed.
 blog_button:
